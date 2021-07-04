@@ -8,12 +8,14 @@ load_dotenv()
 PREFIX = os.getenv("PREFIX") or "MLH!"
 TOKEN = os.environ["DISCORD_BOT_TOKEN"]
 
-COGS = ["src.exts.hello_world"]
-#   "src.exts.help",
+COGS = [
+    "src.exts.helpers",
+    "src.exts.init"
+]
 
 class Colo:
-    blue = 1
-    red = 2
+    red = 1
+    blue = 2
     yellow = 3
 
 with open("meta.json") as f:
