@@ -1,0 +1,12 @@
+{
+    "name": "MLH-Bot",
+    "version": "0.0.0",
+    "license": "BSD-3",
+    "repository": "https://github.com/Vyvy-vi/MLH-bot",
+    "registry": "Github Container Registry",
+    "description": "Discord bot made in python for MLH's data from INIT. (Might contain more data) This is experimental, unofficial stuff, and is not recognised or affiliated with MLH(atleast for now)",
+    "keywords": "discord bot, MLH INIT, Points, stuff...",
+    "privacy_policy": "not there yet (*MLH's privacy policy also applies here)",
+    "terms_and_conditions": "MLh's TOC + something else that I'll add in a while",
+    "latest_image": "didn't deploy yet"
+}
